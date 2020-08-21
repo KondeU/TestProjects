@@ -1,0 +1,13 @@
+[General]
+Case = Demo
+Author = XXX
+
+# Test Project 1
+[TestProcessor1]
+key1 = value1
+
+# Test Project 2
+[TestProcessor2]
+key1 = 1
+key2 = 0.1
+key3 = value
